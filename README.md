@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(04,06 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alex Hernandez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Application that displays recipe ingredients.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ath15c.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Using jquery syntax.)
+2. (Using jquery to repsond to user click)
+3. (Learning jquery functions)
 
